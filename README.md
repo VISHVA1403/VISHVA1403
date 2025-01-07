@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm VISHVA</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 
-- 🔭 I’m currently working on [Alumni mobile application](https://github.com/VISHVA1403/alumni-server.git)
+- 🔭 I’m currently working as Technical Trainee in ZOHO
 
-- 🌱 I’m currently learning **Data Science and Django**
-
-- 💬 Ask me about **Django,Machine learning**
+- 🌱 I’m currently learning **Springboot Microservices**
 
 - 📫 How to reach me **vishva28sep@gmail.com**
 
